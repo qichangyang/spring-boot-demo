@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-progresql
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Qichang.Yang
+Implementation-Vendor-Id: com.main
+Build-Jdk: 1.8.0_162
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ progresql/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
